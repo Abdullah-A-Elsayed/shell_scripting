@@ -3,6 +3,7 @@ echo Enter your weight
 read weight
 case $weight in
     90) echo 90 is big
+        echo again 90 is big
     ;;
     80) echo 80 is less big
     ;;
