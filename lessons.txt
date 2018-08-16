@@ -1,0 +1,3 @@
+tr 'set1' 'set2' -> is a linux command that translates set1 to set2
+use [[ ]] instead of []
+use -gt instead of >

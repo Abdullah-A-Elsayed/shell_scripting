@@ -11,3 +11,4 @@ else
     echo old
 fi
 #elif is followed by then
+#recommended to use [[  ]]
