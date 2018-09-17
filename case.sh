@@ -8,4 +8,5 @@ case $weight in
     80) echo 80 is less big
     ;;
     *) echo no matching option
+    ;;
 esac
